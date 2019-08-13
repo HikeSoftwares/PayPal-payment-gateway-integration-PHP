@@ -1,0 +1,720 @@
+[29-Aug-2018 05:16:56 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 72
+[29-Aug-2018 05:16:57 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 62
+[29-Aug-2018 05:16:57 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 63
+[29-Aug-2018 05:16:57 America/New_York] PHP Notice:  Trying to get property of non-object in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 65
+[29-Aug-2018 05:16:57 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 78
+[29-Aug-2018 05:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[29-Aug-2018 05:17:18 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 72
+[29-Aug-2018 05:17:19 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 62
+[29-Aug-2018 05:17:19 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 63
+[29-Aug-2018 05:17:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 65
+[29-Aug-2018 05:17:19 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 78
+[29-Aug-2018 05:17:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[29-Aug-2018 05:17:46 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'user'@'localhost' (using password: YES) in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 72
+[29-Aug-2018 05:17:47 America/New_York] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 62
+[29-Aug-2018 05:17:47 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 63
+[29-Aug-2018 05:17:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 65
+[29-Aug-2018 05:17:47 America/New_York] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 78
+[29-Aug-2018 05:17:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[29-Aug-2018 05:18:18 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:18:27 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:19:06 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:20:02 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:20:08 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:21:31 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:22:06 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[29-Aug-2018 05:23:14 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[30-Aug-2018 01:45:41 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 85
+[30-Aug-2018 02:10:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:10:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:10:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:11:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:11:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:12:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:12:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php on line 12
+[30-Aug-2018 02:13:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:14:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:15:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:15:46 America/New_York] PHP Notice:  Use of undefined constant USD - assumed 'USD' in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php on line 15
+[30-Aug-2018 02:15:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php on line 23
+[30-Aug-2018 02:16:01 America/New_York] PHP Notice:  Use of undefined constant USD - assumed 'USD' in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php on line 15
+[30-Aug-2018 02:16:01 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments22.php on line 30
+[30-Aug-2018 02:17:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:20:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php:79
+Stack trace:
+#0 /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php(91): addPayment(Array)
+#1 {main}
+  thrown in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 79
+[30-Aug-2018 02:21:59 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 02:22:42 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 02:25:46 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 02:25:46 America/New_York] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 87
+[30-Aug-2018 02:27:30 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 02:27:30 America/New_York] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 87
+[30-Aug-2018 02:31:21 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 02:31:21 America/New_York] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 87
+[30-Aug-2018 02:37:18 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[30-Aug-2018 03:36:24 America/New_York] PHP Notice:  Undefined index: itemdesc in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 27
+[30-Aug-2018 03:36:24 America/New_York] PHP Notice:  Undefined index: amount in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 28
+[30-Aug-2018 03:36:24 America/New_York] PHP Notice:  Undefined index: currency_code in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 29
+[30-Aug-2018 03:36:24 America/New_York] PHP Notice:  Undefined index: userid in /home/gpsmzrzw/hikesoftwares.us/match/paypal/payments.php on line 30
+[30-Aug-2018 03:36:24 America/New_York] PHP Notice:  Only variables should be passed by reference in /home/gpsmzrzw/hikesoftwares.us/match/paypal/functions.php on line 86
+[01-Sep-2018 05:48:47 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 05:48:47 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 05:48:47 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 05:48:47 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 05:48:49 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[01-Sep-2018 06:51:45 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 06:51:45 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 06:51:45 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 06:51:45 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 06:51:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[01-Sep-2018 06:56:37 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 06:56:37 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 06:56:37 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 06:56:37 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 06:56:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[01-Sep-2018 07:24:19 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 07:24:19 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 07:24:19 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 07:24:19 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 12:54:20 Asia/Kolkata] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 87
+[01-Sep-2018 07:25:27 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 07:25:27 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 07:25:27 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 07:25:27 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 12:55:28 Asia/Kolkata] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 87
+[01-Sep-2018 07:25:39 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:25:39 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:25:39 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:25:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:27:38 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:27:38 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:27:38 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:27:38 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:27:38 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:27:38 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:27:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:27:45 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 07:27:45 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 07:27:45 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 07:27:45 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 12:57:46 Asia/Kolkata] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 87
+[01-Sep-2018 07:28:49 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:28:49 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:28:49 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:28:49 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 18
+[01-Sep-2018 07:28:49 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 18
+[01-Sep-2018 07:28:49 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:28:49 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:28:49 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:28:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:32:38 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:32:38 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:32:38 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:32:38 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:32:38 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:32:38 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 20
+[01-Sep-2018 07:32:38 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 20
+[01-Sep-2018 07:32:38 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 20
+[01-Sep-2018 07:32:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 20
+[01-Sep-2018 07:35:53 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:35:53 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:35:53 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:35:53 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 18
+[01-Sep-2018 07:35:53 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 18
+[01-Sep-2018 07:35:53 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:35:53 UTC] PHP Notice:  Undefined index: planname in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:35:53 UTC] PHP Notice:  Undefined index: payment_status in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:35:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:37:22 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:37:22 UTC] PHP Warning:  include(config/config.php): failed to open stream: No such file or directory in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:37:22 UTC] PHP Warning:  include(): Failed opening 'config/config.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 4
+[01-Sep-2018 07:37:22 UTC] PHP Notice:  Undefined variable: con in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:37:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/j7u8t56816mx/public_html/demo/match/paypal/payment-successful.php on line 19
+[01-Sep-2018 07:37:27 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 07:37:27 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 07:37:27 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 07:37:27 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 07:37:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[01-Sep-2018 14:58:36 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[01-Sep-2018 14:58:36 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[01-Sep-2018 14:58:36 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[01-Sep-2018 14:58:36 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[01-Sep-2018 14:58:38 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[03-Sep-2018 14:25:08 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[03-Sep-2018 14:25:08 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[03-Sep-2018 14:25:08 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[03-Sep-2018 14:25:08 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[03-Sep-2018 14:25:10 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[06-Sep-2018 17:48:37 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[06-Sep-2018 17:48:37 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[06-Sep-2018 17:48:37 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[06-Sep-2018 17:48:37 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[06-Sep-2018 17:48:39 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[10-Sep-2018 13:02:10 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[10-Sep-2018 13:02:10 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[10-Sep-2018 13:02:10 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[10-Sep-2018 13:02:10 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[10-Sep-2018 13:02:11 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[11-Sep-2018 12:05:27 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[11-Sep-2018 12:05:27 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[11-Sep-2018 12:05:27 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[11-Sep-2018 12:05:27 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[11-Sep-2018 12:05:28 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[13-Sep-2018 13:26:35 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[13-Sep-2018 13:26:35 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[13-Sep-2018 13:26:35 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[13-Sep-2018 13:26:35 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[13-Sep-2018 13:26:37 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[13-Sep-2018 15:12:54 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[13-Sep-2018 15:12:54 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[13-Sep-2018 15:12:54 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[13-Sep-2018 15:12:54 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[13-Sep-2018 15:12:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[18-Sep-2018 09:29:07 UTC] PHP Notice:  Undefined index: itemdesc in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 27
+[18-Sep-2018 09:29:07 UTC] PHP Notice:  Undefined index: amount in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 28
+[18-Sep-2018 09:29:07 UTC] PHP Notice:  Undefined index: currency_code in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 29
+[18-Sep-2018 09:29:07 UTC] PHP Notice:  Undefined index: userid in /home/j7u8t56816mx/public_html/demo/match/paypal/payments.php on line 30
+[18-Sep-2018 09:29:08 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/j7u8t56816mx/public_html/demo/match/paypal/functions.php on line 86
+[16-Nov-2018 01:42:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[16-Nov-2018 23:53:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[17-Nov-2018 00:01:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[17-Nov-2018 00:04:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[17-Nov-2018 00:04:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:11:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:11:15 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:26:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:27:11 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:29:35 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:29:41 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:29:50 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:35:40 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:35:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:37:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:41:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 10
+[20-Nov-2018 05:52:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:53:27 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:53:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:54:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:55:23 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:55:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:56:13 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:56:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 7
+[20-Nov-2018 05:57:32 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:57:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:58:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:58:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 05:58:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 06:00:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 17
+[20-Nov-2018 06:00:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 17
+[20-Nov-2018 06:00:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 40
+[20-Nov-2018 06:00:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 40
+[20-Nov-2018 06:01:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 40
+[20-Nov-2018 06:02:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 06:04:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/matchmeb/public_html/paypal/payments.php on line 8
+[20-Nov-2018 07:32:03 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[20-Nov-2018 07:32:03 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[20-Nov-2018 07:32:03 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[20-Nov-2018 07:32:03 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[20-Nov-2018 07:32:04 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[20-Nov-2018 08:05:24 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[20-Nov-2018 08:05:24 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[20-Nov-2018 08:05:24 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[20-Nov-2018 08:05:24 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[20-Nov-2018 08:05:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[23-Nov-2018 03:04:18 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[23-Nov-2018 03:04:18 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[23-Nov-2018 03:04:18 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[23-Nov-2018 03:04:18 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[23-Nov-2018 03:04:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[29-Nov-2018 02:46:09 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[29-Nov-2018 02:46:09 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[29-Nov-2018 02:46:09 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[29-Nov-2018 02:46:09 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[29-Nov-2018 02:46:10 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:55:12 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:55:12 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:55:12 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:55:12 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:55:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:55:13 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:55:24 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:55:24 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:55:24 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:55:24 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:55:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:55:25 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:55:47 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:55:47 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:55:47 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:55:47 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:55:48 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:55:48 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:56:29 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:56:29 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:56:29 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:56:29 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:56:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:56:30 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:57:14 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:57:14 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:57:14 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:57:14 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:57:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:57:15 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:57:26 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:57:26 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:57:26 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:57:26 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:57:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:57:27 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:57:51 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:57:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:57:52 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 07:58:02 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'cURL error: [56] OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 104' in /home/matchmeb/public_html/paypal/functions.php:37
+Stack trace:
+#0 /home/matchmeb/public_html/paypal/payments.php(91): verifyTransaction(Array)
+#1 {main}
+  thrown in /home/matchmeb/public_html/paypal/functions.php on line 37
+[30-Nov-2018 07:58:47 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 07:58:49 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 07:58:49 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 07:58:49 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 07:58:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 07:58:50 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:00:14 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:00:14 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:00:14 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:00:14 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:00:15 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:00:15 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:00:36 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:00:37 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:00:37 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:00:37 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:00:37 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:00:49 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:00:49 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:00:49 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:00:49 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:00:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:00:51 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:01:13 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:01:13 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:01:13 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:01:13 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:01:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:02:57 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:02:57 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:02:57 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:02:57 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:02:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:02:59 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:02:59 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:02:59 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:02:59 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:03:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:05:29 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:05:29 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:05:29 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:05:29 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:05:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:05:30 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:05:40 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:05:40 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:05:40 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:05:40 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:05:41 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:05:41 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:05:58 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:05:58 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:05:58 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:05:58 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:05:59 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:05:59 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:06:04 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:06:04 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:06:04 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:06:04 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:06:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:06:05 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:06:50 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:06:50 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:06:50 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:06:50 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:06:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:06:51 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:07:12 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:07:12 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:07:12 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:07:12 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:07:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:07:13 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:07:24 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:07:24 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:07:24 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:07:24 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:07:25 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:07:25 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:07:46 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:07:46 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:07:46 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:07:46 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:07:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:07:47 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:08:12 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:08:12 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:08:12 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:08:12 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:08:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:08:13 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:08:28 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:08:28 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:08:28 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:08:28 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:08:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:08:30 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:09:52 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:09:52 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:09:52 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:09:52 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:09:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:09:53 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:10:46 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:10:46 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:10:46 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:10:46 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:10:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:10:47 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:10:53 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:10:53 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:10:53 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:10:53 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:10:55 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:10:55 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:11:00 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:11:00 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:11:00 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:11:00 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:11:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:11:01 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:11:26 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:11:26 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:11:26 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:11:26 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:11:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:11:27 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:12:08 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:12:08 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:12:08 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:12:08 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:12:09 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:12:09 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:12:37 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:12:37 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:12:37 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:12:37 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:12:38 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:12:38 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:13:31 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:13:31 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:13:31 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:13:31 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:13:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:13:32 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:16:15 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:16:15 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:16:15 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:16:15 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:16:16 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:16:16 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:16:16 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:16:16 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:16:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:16:16 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:16:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:16:18 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 88
+[30-Nov-2018 08:16:41 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:16:41 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:16:41 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:16:41 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:16:42 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:16:42 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:16:59 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:16:59 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:16:59 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:16:59 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:17:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:17:00 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:17:15 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:17:15 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:17:15 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:17:15 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:17:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:17:16 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:17:38 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:17:38 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:17:38 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:17:38 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:17:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:17:40 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:17:58 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:17:58 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:17:58 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:17:58 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:17:59 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:18:20 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:18:20 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:18:20 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:18:20 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:18:21 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:18:31 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:18:31 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:18:31 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:18:31 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:18:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:20:28 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:20:28 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:20:28 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:20:28 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:20:29 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:21:39 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:21:39 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:21:39 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:21:39 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:21:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:22:37 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:22:37 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:22:37 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:22:37 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:22:38 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:22:38 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:22:51 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:22:51 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:22:51 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:22:51 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:22:52 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:22:52 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:23:12 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:23:12 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:23:12 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:23:12 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:23:13 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:23:13 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:23:55 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:23:55 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:23:55 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:23:55 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:23:56 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:23:56 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:25:19 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:25:19 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:25:19 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:25:19 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:25:20 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:25:20 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:26:59 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:26:59 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:26:59 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:26:59 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:27:00 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:27:00 America/Chicago] PHP Fatal error:  Cannot pass parameter 9 by reference in /home/matchmeb/public_html/paypal/functions.php on line 89
+[30-Nov-2018 08:28:01 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:28:01 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:28:01 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:28:01 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:28:02 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:28:14 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:28:17 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:28:17 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:28:17 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:28:18 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:38:03 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:38:03 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:38:03 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:38:03 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:38:05 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[30-Nov-2018 08:48:22 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[30-Nov-2018 08:48:22 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[30-Nov-2018 08:48:22 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[30-Nov-2018 08:48:22 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[30-Nov-2018 08:48:23 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[07-Dec-2018 07:38:44 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[07-Dec-2018 07:38:44 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[07-Dec-2018 07:38:44 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[07-Dec-2018 07:38:44 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[07-Dec-2018 07:38:45 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[07-Dec-2018 07:43:18 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[07-Dec-2018 07:43:18 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[07-Dec-2018 07:43:18 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[07-Dec-2018 07:43:18 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[07-Dec-2018 07:43:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[07-Dec-2018 08:15:39 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[07-Dec-2018 08:15:39 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[07-Dec-2018 08:15:39 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[07-Dec-2018 08:15:39 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[07-Dec-2018 08:15:40 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 00:33:46 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[08-Dec-2018 00:33:46 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments.php on line 28
+[08-Dec-2018 00:33:46 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 29
+[08-Dec-2018 00:33:46 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 30
+[08-Dec-2018 00:33:47 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 00:39:13 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 27
+[08-Dec-2018 00:39:13 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 28
+[08-Dec-2018 00:39:13 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 29
+[08-Dec-2018 00:39:13 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 30
+[08-Dec-2018 00:39:14 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 00:52:57 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 00:53:58 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 00:56:17 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 00:56:17 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[08-Dec-2018 00:56:17 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[08-Dec-2018 00:56:17 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[08-Dec-2018 00:56:17 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[08-Dec-2018 00:56:19 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 01:04:29 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 01:04:29 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[08-Dec-2018 01:04:29 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[08-Dec-2018 01:04:29 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[08-Dec-2018 01:04:29 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[08-Dec-2018 01:04:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 01:06:29 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 01:06:29 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[08-Dec-2018 01:06:29 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[08-Dec-2018 01:06:29 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[08-Dec-2018 01:06:29 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[08-Dec-2018 01:06:30 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 01:15:15 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 01:15:15 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[08-Dec-2018 01:15:15 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[08-Dec-2018 01:15:15 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[08-Dec-2018 01:15:15 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[08-Dec-2018 01:15:16 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[08-Dec-2018 06:39:07 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 06:46:21 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[08-Dec-2018 06:46:21 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[08-Dec-2018 06:46:21 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[08-Dec-2018 06:46:21 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[08-Dec-2018 06:46:21 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[08-Dec-2018 06:46:22 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[10-Dec-2018 00:01:57 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 00:01:57 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments-powerup.php on line 32
+[10-Dec-2018 00:01:57 America/Chicago] PHP Notice:  Undefined index: amount in /home/matchmeb/public_html/paypal/payments-powerup.php on line 33
+[10-Dec-2018 00:01:57 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments-powerup.php on line 34
+[10-Dec-2018 00:01:57 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments-powerup.php on line 35
+[10-Dec-2018 00:01:58 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[10-Dec-2018 04:08:37 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 04:42:16 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 04:43:10 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 05:03:35 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 06:49:28 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 07:07:59 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[10-Dec-2018 16:03:36 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
+[11-Dec-2018 02:55:59 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[11-Dec-2018 02:55:59 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[11-Dec-2018 02:55:59 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[11-Dec-2018 02:56:01 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[11-Dec-2018 07:32:46 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[11-Dec-2018 07:32:46 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[11-Dec-2018 07:32:46 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[12-Dec-2018 06:20:02 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[12-Dec-2018 06:20:02 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[12-Dec-2018 06:20:02 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[12-Dec-2018 06:20:06 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[12-Dec-2018 08:05:51 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[12-Dec-2018 08:05:51 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[12-Dec-2018 08:05:51 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[12-Dec-2018 08:05:53 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[13-Dec-2018 17:08:22 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[13-Dec-2018 17:08:22 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[13-Dec-2018 17:08:22 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[13-Dec-2018 17:09:26 America/Chicago] PHP Notice:  Undefined index: itemdesc in /home/matchmeb/public_html/paypal/payments.php on line 27
+[13-Dec-2018 17:09:26 America/Chicago] PHP Notice:  Undefined index: currency_code in /home/matchmeb/public_html/paypal/payments.php on line 30
+[13-Dec-2018 17:09:26 America/Chicago] PHP Notice:  Undefined index: userid in /home/matchmeb/public_html/paypal/payments.php on line 31
+[13-Dec-2018 17:09:28 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/matchmeb/public_html/paypal/functions.php on line 86
+[14-Dec-2018 00:52:02 America/Chicago] PHP Notice:  Undefined index: successURL in /home/matchmeb/public_html/paypal/payments-powerup.php on line 16
