@@ -6,18 +6,18 @@ $enableSandbox = false;
 // Database settings. Change these for your database configuration.
 $dbConfig = [
 	'host' => 'localhost',
-	'username' => 'admin_urspouse',
-	'password' => 'tH5QVc7dcu',
-	'name' => 'admin_urspouse'
+	'username' => '***',
+	'password' => '***',
+	'name' => '***'
 ];
 
 // PayPal settings. Change these to your account details and the relevant URLs
 // for your site.
 $paypalConfig = [
-	'email' => 'jktech11@gmail.com',
-	'return_url' => 'https://urspouse.com/sucess.php',
-	'cancel_url' => 'https://urspouse.com/paypal/payment-cancelled.html',
-	'notify_url' => 'https://urspouse.com/paypal/payments.php'
+	'email' => '***',
+	'return_url' => 'https://***.com/sucess.php',
+	'cancel_url' => 'https://***.com/paypal/payment-cancelled.html',
+	'notify_url' => 'https://***.com/paypal/payments.php'
 ];
 
 $paypalUrl = $enableSandbox ? 'https://www.sandbox.paypal.com/cgi-bin/webscr' : 'https://www.paypal.com/cgi-bin/webscr';
